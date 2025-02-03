@@ -1,1 +1,2 @@
 hist(rnorm(300))
+plot(rnorm(300))
